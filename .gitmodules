@@ -1,0 +1,6 @@
+[submodule "stow"]
+	path = stow.nvim
+	url = https://github.com/stephansama/stow.nvim
+[submodule "fzf-tmux-runner"]
+	path = fzf-tmux-runner.nvim
+	url = https://github.com/stephansama/fzf-tmux-runner.nvim
