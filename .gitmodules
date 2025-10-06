@@ -4,3 +4,6 @@
 [submodule "fzf-tmux-runner"]
 	path = fzf-tmux-runner.nvim
 	url = https://github.com/stephansama/fzf-tmux-runner.nvim
+[submodule "fzf-nerdfont"]
+	path = fzf-nerdfont.nvim
+	url = https://github.com/stephansama/fzf-nerdfont.nvim
